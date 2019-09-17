@@ -1,0 +1,9 @@
+E:\Projetos\Looke\TesteLooke\Entities\Looke.Entities\bin\Debug\netcoreapp2.1\Looke.Domain.deps.json
+E:\Projetos\Looke\TesteLooke\Entities\Looke.Entities\bin\Debug\netcoreapp2.1\Looke.Domain.dll
+E:\Projetos\Looke\TesteLooke\Entities\Looke.Entities\bin\Debug\netcoreapp2.1\Looke.Domain.pdb
+E:\Projetos\Looke\TesteLooke\Entities\Looke.Entities\obj\Debug\netcoreapp2.1\Looke.Domain.csprojAssemblyReference.cache
+E:\Projetos\Looke\TesteLooke\Entities\Looke.Entities\obj\Debug\netcoreapp2.1\Looke.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\Looke\TesteLooke\Entities\Looke.Entities\obj\Debug\netcoreapp2.1\Looke.Domain.AssemblyInfoInputs.cache
+E:\Projetos\Looke\TesteLooke\Entities\Looke.Entities\obj\Debug\netcoreapp2.1\Looke.Domain.AssemblyInfo.cs
+E:\Projetos\Looke\TesteLooke\Entities\Looke.Entities\obj\Debug\netcoreapp2.1\Looke.Domain.dll
+E:\Projetos\Looke\TesteLooke\Entities\Looke.Entities\obj\Debug\netcoreapp2.1\Looke.Domain.pdb

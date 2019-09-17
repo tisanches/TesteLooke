@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Teste Looke</title>
+    <script type="text/javascript" src="./lib/jquery-3.4.1.min.js"></script>
+
+</head>
+<body>
+    
+<div class="okButton"></div>
+<div class="NokButton"></div>
+<div class="okButton"></div>
+<div class="okButton"></div>
+<div class="NokButton"></div>
+<div class="okButton"></div>
+<div class="NokButton"></div>
+<div class="okButton"></div>
+
+<div id="altDiv" class="clsBlue">classe alterar</div>
+
+<input type="button"  value="Conta Div" id="btnContador" name="btnContador"/>
+
+<input type="button"  value="Remover e adicionar" id="AddAndRemove" name="AddAndRemove"/>
+
+</body>
+<script>
+
+$(document).ready(function(){
+    $("#btnContador").click(function(){
+        alert(all.length);
+    });
+
+    $("#AddAndRemove").click(function(){
+        $("#altDiv").toggleClass('clsYellow');
+    });
+
+});
+
+
+var all = $(".okButton").map(function() {
+    return this.innerHTML;
+}).get();
+
+
+</script>
+
+<style>
+.clsBlue{
+    background-color: blue;
+}
+
+.clsYellow{
+    background-color:yellow;
+}
+
+</style>
+
+</html>

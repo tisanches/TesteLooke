@@ -1,0 +1,9 @@
+E:\Projetos\Looke\TesteLooke\Looke.CrossCutting\ClassLibrary1\bin\Debug\netcoreapp2.1\Looke.CrossCutting.deps.json
+E:\Projetos\Looke\TesteLooke\Looke.CrossCutting\ClassLibrary1\bin\Debug\netcoreapp2.1\Looke.CrossCutting.dll
+E:\Projetos\Looke\TesteLooke\Looke.CrossCutting\ClassLibrary1\bin\Debug\netcoreapp2.1\Looke.CrossCutting.pdb
+E:\Projetos\Looke\TesteLooke\Looke.CrossCutting\ClassLibrary1\obj\Debug\netcoreapp2.1\Looke.CrossCutting.csprojAssemblyReference.cache
+E:\Projetos\Looke\TesteLooke\Looke.CrossCutting\ClassLibrary1\obj\Debug\netcoreapp2.1\Looke.CrossCutting.csproj.CoreCompileInputs.cache
+E:\Projetos\Looke\TesteLooke\Looke.CrossCutting\ClassLibrary1\obj\Debug\netcoreapp2.1\Looke.CrossCutting.AssemblyInfoInputs.cache
+E:\Projetos\Looke\TesteLooke\Looke.CrossCutting\ClassLibrary1\obj\Debug\netcoreapp2.1\Looke.CrossCutting.AssemblyInfo.cs
+E:\Projetos\Looke\TesteLooke\Looke.CrossCutting\ClassLibrary1\obj\Debug\netcoreapp2.1\Looke.CrossCutting.dll
+E:\Projetos\Looke\TesteLooke\Looke.CrossCutting\ClassLibrary1\obj\Debug\netcoreapp2.1\Looke.CrossCutting.pdb
